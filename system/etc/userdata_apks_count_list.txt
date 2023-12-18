@@ -1,0 +1,6 @@
+/data/app/SHealth5/SHealth5.apk
+/data/app/SecCalculator_M/SecCalculator_M.apk
+/data/app/Notes/Notes.apk
+/data/app/VoiceNote_4.0/VoiceNote_4.0.apk
+/data/app/SBrowser_5.2_Removable/SBrowser_5.2_Removable.apk
+/data/app/SamsungMembers_Removable/SamsungMembers_Removable.apk

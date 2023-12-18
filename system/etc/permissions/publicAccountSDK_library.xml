@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="cmcc-public-account-sdk" file="/system/framework/cmcc-public-account-sdk.jar"/>
+</permissions>
