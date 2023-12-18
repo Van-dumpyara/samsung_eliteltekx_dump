@@ -1,0 +1,14 @@
+# eliteltekx-user 6.0.1 MMB29M G160NKOU1AUD1 release-keys
+- manufacturer: samsung
+- platform: msm8937
+- codename: eliteltekx
+- flavor: eliteltekx-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: G160NKOU1AUD1
+- tags: release-keys
+- fingerprint: samsung/eliteltekx/eliteltekx:6.0.1/MMB29M/G160NKOU1AUD1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: eliteltekx-user-6.0.1-MMB29M-G160NKOU1AUD1-release-keys
+- repo: samsung_eliteltekx_dump
